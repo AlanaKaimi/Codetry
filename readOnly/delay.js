@@ -22,3 +22,4 @@ function procrastinateHomework (searchInput) {
 procrastinateHomework('')
 
 console.log('git commit -m "I feel {% emotion.randomifyz.skew %}')
+
